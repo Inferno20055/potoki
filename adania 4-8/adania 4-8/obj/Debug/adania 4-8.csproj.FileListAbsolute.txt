@@ -1,0 +1,11 @@
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\bin\Debug\adania 4-8.exe.config
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\bin\Debug\adania 4-8.exe
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\bin\Debug\adania 4-8.pdb
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania 4-8.csproj.AssemblyReference.cache
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania_4_8.Form1.resources
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania_4_8.Properties.Resources.resources
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania 4-8.csproj.GenerateResource.cache
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania 4-8.csproj.CoreCompileInputs.cache
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania 4-8.exe
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania 4-8.pdb
+C:\Users\Aлексей\source\repos\adania 4-8\adania 4-8\obj\Debug\adania 4-8.exe.config

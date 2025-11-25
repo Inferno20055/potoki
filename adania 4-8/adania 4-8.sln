@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adania 4-8", "adania 4-8\adania 4-8.csproj", "{6CF0237F-742A-4FFC-8313-76BBAA3E712A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF0237F-742A-4FFC-8313-76BBAA3E712A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF0237F-742A-4FFC-8313-76BBAA3E712A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF0237F-742A-4FFC-8313-76BBAA3E712A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF0237F-742A-4FFC-8313-76BBAA3E712A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5686F578-9D28-411D-91B3-DA52E3EB250D}
+	EndGlobalSection
+EndGlobal
